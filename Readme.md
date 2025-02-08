@@ -22,13 +22,13 @@ Core system humanoid robot navigation class to run in real time
 
 
 Behavior Tree implamentation in Unreal engine
-- [tracking2.cc](JabJuggernautsUEc++/BTTask_FindRandomLocation.cc)
-- [tracking2.h](JabJuggernautsUEc++/BTTask_FindRandomLocation.h)
+- [BTTask_FindRandomLocation.cpp](JabJuggernautsUEc++/BTTask_FindRandomLocation.cc)
+- [BTTask_FindRandomLocation.h](JabJuggernautsUEc++/BTTask_FindRandomLocation.h)
 
 
 Mujoco and unreal transform synchronization
-- [example1.txt](JabJuggernautsUEc++/mjueutilities.cc)
-- [example2.txt](JabJuggernautsUEc++/mjueutilities.h)
+- [mjueutilities.cpp](JabJuggernautsUEc++/mjueutilities.cpp)
+- [mjueutilities.c](JabJuggernautsUEc++/mjueutilities.h)
 
 
 Cry of Athena blueprint navagation optimazation 
