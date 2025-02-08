@@ -22,7 +22,7 @@ Core system humanoid robot navigation class to run in real time
 
 
 Behavior Tree implamentation in Unreal engine
-- [BTTask_FindRandomLocation.cpp](JabJuggernautsUEc++/BTTask_FindRandomLocation.cc)
+- [BTTask_FindRandomLocation.cpp](JabJuggernautsUEc++/BTTask_FindRandomLocation.cpp)
 - [BTTask_FindRandomLocation.h](JabJuggernautsUEc++/BTTask_FindRandomLocation.h)
 
 
